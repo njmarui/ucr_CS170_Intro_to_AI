@@ -1,0 +1,45 @@
+sbang0021@cs012_assignments:~/workspace/CS170/eight-puzzle (master) $ ./a.out
+Welcome to 861159446's 8-puzzle solver.
+Enter width of square matrix (size > 0): 3 4 0 1 2 3 7 5 6 8
+What would you like to place 0 in the Matrix(0-8) 
+Placing 0 in Matrix location 4
+What would you like to place 1 in the Matrix(0-8) 
+Placing 1 in Matrix location 0
+What would you like to place 2 in the Matrix(0-8) 
+Placing 2 in Matrix location 1
+What would you like to place 3 in the Matrix(0-8) 
+Placing 3 in Matrix location 2
+What would you like to place 4 in the Matrix(0-8) 
+Placing 4 in Matrix location 3
+What would you like to place 5 in the Matrix(0-8) 
+Placing 5 in Matrix location 7
+What would you like to place 6 in the Matrix(0-8) 
+Placing 6 in Matrix location 5
+What would you like to place 7 in the Matrix(0-8) 
+Placing 7 in Matrix location 6
+What would you like to place 8 in the Matrix(0-8) 
+Placing 8 in Matrix location 8
+Enter what mode you would like to do the search: 
+1) UniformCostSearch 
+2) A* Misplaced Tiles
+3) A* Manhattan
+3
+RESULT 
+Start
+1 2 3 
+4 0 6 
+7 5 8 
+
+Down
+1 2 3 
+4 5 6 
+7 0 8 
+
+Right
+1 2 3 
+4 5 6 
+7 8 0 
+
+To solve this problem the search algorithm expanded a total of 2 nodes.
+The maximum number of nodes in the queue at any one time was 4 .
+The depth of the goal node was 2.

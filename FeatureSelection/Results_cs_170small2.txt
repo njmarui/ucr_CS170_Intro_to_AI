@@ -1,0 +1,129 @@
+Enter name of File to get Data: 
+cs_170_small2.txt
+Type the algorithm you want to run: 
+1)Forward Selection
+2)Backward Selection
+1
+Using feature set: 1 accuracy of 0.69
+Using feature set: 2 accuracy of 0.6
+Using feature set: 3 accuracy of 0.63
+Using feature set: 4 accuracy of 0.69
+Using feature set: 5 accuracy of 0.66
+Using feature set: 6 accuracy of 0.68
+Using feature set: 7 accuracy of 0.66
+Using feature set: 8 accuracy of 0.65
+Using feature set: 9 accuracy of 0.64
+Using feature set: 10 accuracy of 0.83
+Using feature set: 10 1 accuracy of 0.71
+Using feature set: 10 2 accuracy of 0.74
+Using feature set: 10 3 accuracy of 0.92
+Using feature set: 10 4 accuracy of 0.77
+Using feature set: 10 5 accuracy of 0.78
+Using feature set: 10 6 accuracy of 0.79
+Using feature set: 10 7 accuracy of 0.68
+Using feature set: 10 8 accuracy of 0.76
+Using feature set: 10 9 accuracy of 0.77
+Using feature set: 10 3 1 accuracy of 0.87
+Using feature set: 10 3 2 accuracy of 0.85
+Using feature set: 10 3 4 accuracy of 0.86
+Using feature set: 10 3 5 accuracy of 0.86
+Using feature set: 10 3 6 accuracy of 0.91
+Using feature set: 10 3 7 accuracy of 0.8
+Using feature set: 10 3 8 accuracy of 0.85
+Using feature set: 10 3 9 accuracy of 0.85
+Using feature set: 10 3 6 1 accuracy of 0.81
+Using feature set: 10 3 6 2 accuracy of 0.83
+Using feature set: 10 3 6 4 accuracy of 0.85
+Using feature set: 10 3 6 5 accuracy of 0.8
+Using feature set: 10 3 6 7 accuracy of 0.78
+Using feature set: 10 3 6 8 accuracy of 0.8
+Using feature set: 10 3 6 9 accuracy of 0.84
+Using feature set: 10 3 6 4 1 accuracy of 0.74
+Using feature set: 10 3 6 4 2 accuracy of 0.73
+Using feature set: 10 3 6 4 5 accuracy of 0.77
+Using feature set: 10 3 6 4 7 accuracy of 0.69
+Using feature set: 10 3 6 4 8 accuracy of 0.83
+Using feature set: 10 3 6 4 9 accuracy of 0.71
+Using feature set: 10 3 6 4 8 1 accuracy of 0.73
+Using feature set: 10 3 6 4 8 2 accuracy of 0.74
+Using feature set: 10 3 6 4 8 5 accuracy of 0.79
+Using feature set: 10 3 6 4 8 7 accuracy of 0.73
+Using feature set: 10 3 6 4 8 9 accuracy of 0.66
+Using feature set: 10 3 6 4 8 5 1 accuracy of 0.72
+Using feature set: 10 3 6 4 8 5 2 accuracy of 0.67
+Using feature set: 10 3 6 4 8 5 7 accuracy of 0.72
+Using feature set: 10 3 6 4 8 5 9 accuracy of 0.71
+Using feature set: 10 3 6 4 8 5 1 2 accuracy of 0.69
+Using feature set: 10 3 6 4 8 5 1 7 accuracy of 0.68
+Using feature set: 10 3 6 4 8 5 1 9 accuracy of 0.66
+Using feature set: 10 3 6 4 8 5 1 2 7 accuracy of 0.6
+Using feature set: 10 3 6 4 8 5 1 2 9 accuracy of 0.64
+Using feature set: 10 3 6 4 8 5 1 2 9 7 accuracy of 0.57
+The best accuracy is gained using feature set: 10 3 accuracy of 0.92
+Run Again: 
+1)Yes
+2)No
+1
+Type the algorithm you want to run: 
+1)Forward Selection
+2)Backward Selection
+2
+Using feature set: 1 2 3 4 5 6 7 8 9 10 accuracy of 0.57
+Using feature set: 10 2 3 4 5 6 7 8 9 accuracy of 0.63
+Using feature set: 10 1 3 4 5 6 7 8 9 accuracy of 0.61
+Using feature set: 10 1 2 4 5 6 7 8 9 accuracy of 0.54
+Using feature set: 10 1 2 3 5 6 7 8 9 accuracy of 0.61
+Using feature set: 10 1 2 3 4 6 7 8 9 accuracy of 0.64
+Using feature set: 10 1 2 3 4 5 7 8 9 accuracy of 0.58
+Using feature set: 10 1 2 3 4 5 6 8 9 accuracy of 0.64
+Using feature set: 10 1 2 3 4 5 6 7 9 accuracy of 0.64
+Using feature set: 10 1 2 3 4 5 6 7 8 accuracy of 0.6
+Using feature set: 10 1 2 3 4 6 7 8 accuracy of 0.63
+Using feature set: 9 1 2 3 4 6 7 8 accuracy of 0.57
+Using feature set: 9 10 2 3 4 6 7 8 accuracy of 0.68
+Using feature set: 9 10 1 3 4 6 7 8 accuracy of 0.65
+Using feature set: 9 10 1 2 4 6 7 8 accuracy of 0.58
+Using feature set: 9 10 1 2 3 6 7 8 accuracy of 0.66
+Using feature set: 9 10 1 2 3 4 7 8 accuracy of 0.68
+Using feature set: 9 10 1 2 3 4 6 8 accuracy of 0.62
+Using feature set: 9 10 1 2 3 4 6 7 accuracy of 0.58
+Using feature set: 9 10 2 3 4 6 7 accuracy of 0.68
+Using feature set: 8 10 2 3 4 6 7 accuracy of 0.67
+Using feature set: 8 9 2 3 4 6 7 accuracy of 0.6
+Using feature set: 8 9 10 3 4 6 7 accuracy of 0.67
+Using feature set: 8 9 10 2 4 6 7 accuracy of 0.6
+Using feature set: 8 9 10 2 3 6 7 accuracy of 0.67
+Using feature set: 8 9 10 2 3 4 7 accuracy of 0.7
+Using feature set: 8 9 10 2 3 4 6 accuracy of 0.7
+Using feature set: 8 9 10 2 3 4 accuracy of 0.78
+Using feature set: 7 9 10 2 3 4 accuracy of 0.66
+Using feature set: 7 8 10 2 3 4 accuracy of 0.7
+Using feature set: 7 8 9 2 3 4 accuracy of 0.59
+Using feature set: 7 8 9 10 3 4 accuracy of 0.64
+Using feature set: 7 8 9 10 2 4 accuracy of 0.66
+Using feature set: 7 8 9 10 2 3 accuracy of 0.7
+Using feature set: 8 9 10 2 3 accuracy of 0.75
+Using feature set: 4 9 10 2 3 accuracy of 0.78
+Using feature set: 4 8 10 2 3 accuracy of 0.76
+Using feature set: 4 8 9 2 3 accuracy of 0.68
+Using feature set: 4 8 9 10 3 accuracy of 0.77
+Using feature set: 4 8 9 10 2 accuracy of 0.73
+Using feature set: 4 9 10 2 accuracy of 0.71
+Using feature set: 3 9 10 2 accuracy of 0.78
+Using feature set: 3 4 10 2 accuracy of 0.79
+Using feature set: 3 4 9 2 accuracy of 0.63
+Using feature set: 3 4 9 10 accuracy of 0.78
+Using feature set: 3 4 10 accuracy of 0.86
+Using feature set: 2 4 10 accuracy of 0.73
+Using feature set: 2 3 10 accuracy of 0.85
+Using feature set: 2 3 4 accuracy of 0.58
+Using feature set: 3 4 accuracy of 0.67
+Using feature set: 10 4 accuracy of 0.77
+Using feature set: 10 3 accuracy of 0.92
+Using feature set: 10 accuracy of 0.83
+Using feature set: 3 accuracy of 0.63
+The best accuracy is gained using feature set: 10 3 accuracy of 0.92
+Run Again: 
+1)Yes
+2)No
+2
